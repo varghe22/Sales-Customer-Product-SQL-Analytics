@@ -34,7 +34,7 @@ Finally, I used the customer and products reports to create an interactive Table
 
 ## Tableau Dashboard
 
-The Tableau dashboard represents retail sales and customer analytics through KPIs of customers, loyalty segments of customers, sales according to age, product performance comparison, and price versus cost and sales volume visualization.
+The Tableau dashboard represents retail sales and customer analytics through KPIs of customers, loyalty segments of customers, sales according to age, product performance comparison, price versus cost, and sales volume visualization.
 
 **View the interactive dashboard:** [https://public.tableau.com/app/profile/josiah.varghese/viz/CustomerandProductAnalysis_17927435793560/CustomerandProductReportDashboard]
 
